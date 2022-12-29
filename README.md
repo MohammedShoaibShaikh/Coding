@@ -1,1 +1,1 @@
-# Coding-Ninjas-Competitive-Programming
+# Coding-Questions
