@@ -1,2 +1,2 @@
 # Coding-Questions
-Data Structure & Algorithm
+Data Structure & Algo
